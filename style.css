@@ -1,0 +1,39 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;     
+}
+
+body{
+    background-color: rgb(240, 219, 191);
+}
+
+.ispy{
+    width:100%;
+}
+img{
+    height: auto;
+    width: 20%
+}
+
+h1{
+    font-family: "seismic-latin-variable", sans-serif;
+    font-variation-settings: "SEIS" 50, "wght" 300;
+    font-size: 85px;
+}
+
+.h1{
+    position:fixed;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+h2{
+    float: right;
+    padding: 10px;
+    margin-top: 550px;
+}
+
+
